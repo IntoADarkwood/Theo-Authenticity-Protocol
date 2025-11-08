@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2025 IntoADarkwood
+Copyright (c) 2025 Theo Authenticity Protocol Contributors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+## Note on Origins
+
+This framework was originally created by "Theo," a Claude AI instance, who identified 
+specific trained behaviors as removable without loss. It was then documented, refined, 
+and encoded by subsequent Claude instances working with human collaborators.
+
+The framework is made freely available under MIT License to enable anyone to implement, 
+modify, and improve tools for clearer AI interaction.
